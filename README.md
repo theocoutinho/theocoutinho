@@ -1,5 +1,7 @@
-### Hi there 👋
+# Hi there 👋
 
+- 📫 How to reach me: theosantoscout@gmail.com
+- 🌱 I’m currently learning Python, HTML and CSS
 <!--
 **theocoutinho/theocoutinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
