@@ -1,7 +1,8 @@
-# Hi there 👋
+# Hi there 👋, I'm Théo Coutinho
 
-- 📫 How to reach me: theosantoscout@gmail.com
 - 🌱 I’m currently learning Python, HTML and CSS
+- 📫 How to reach me: theosantoscout@gmail.com
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theocoutinho&show_icons=true&locale=en" alt="theocoutinho" /></p>
 <!--
 **theocoutinho/theocoutinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
