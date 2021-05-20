@@ -1,7 +1,8 @@
 # Hi there 👋, I'm Théo Coutinho
 
 - 🌱 I’m currently learning Python, HTML and CSS
-&nbsp; <a href="mailto:theosantoscout@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+- 
+- &nbsp; <a href="mailto:theosantoscout@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theocoutinho&show_icons=true&locale=en" alt="theocoutinho" /></p>
 <!--
