@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Théo Coutinho
 
-<a href="https://github.com/theocoutinho/github-readme-stats">
+<a href="https://github.com/theocoutinho">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=theocoutinho&show_icons=true&include_all_commits=true&theme=material-palenight" alt="theocoutinho's github stats" />
 </a>
 
